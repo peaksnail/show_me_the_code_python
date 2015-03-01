@@ -1,6 +1,7 @@
 #!/bin/env python
 """
-only calculate the python file
+@func:only calculate the python file
+@author:zengshaojian
 """
 import os
 
